@@ -1,0 +1,334 @@
+<resources>
+    <string name="app_name">Dzikir Pagi Petang App</string>
+    <string name="title_home">Home</string>
+    <string name="menu_share">Share</string>
+    <string name="basmallah">بِسْمِااللهِ الرَّحْمَنِ الرَّحِيم</string>
+    <string name="title_dashboard">Amalan Dzikir</string>
+    <string name="title_notifications">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="keutamaan_dizikir_pagi_petang">
+       \“Dan bertasbihlah kepada-Nya diwaktu pagi dan petang, Dialah yang memberi rahmat kepadamu dan malaikat-Nya (memohonkan ampunan untukmu),
+         Supaya Dia mengeluarkan kamu dari kegelapan kepada cahaya (yang terang).
+         Dan adalah Dia Maha Penyayang kepada orang-orang yang beriman”\ (QS.Al-Ahzab : 42-43).
+    </string>
+    <string name="waktu_utama_dzikir_pagi_petang">Anas bin Malik radhiyallahu ‘anhu berkata, Rasulullah shallallahu alaihi wa sallam bersabda:\n\n
+
+        <font face="R.font.karla" size="20">لَأَنْ أَقْعُدَ مَعَ قَوْمٍ يَذْكُرُونَ اللَّهَ تَعَالَى مِنْ صَلَاةِ الْغَدَاةِ، حَتَّى تَطْلُعَ الشَّمْسُ : أَحَبُّ إِلَيَّ مِنْ أَنْ أَعْتِقَ أَرْبَعَةً مِنْ وَلَدِ إِسْمَاعِيلَ ، وَلَأَنْ أَقْعُدَ مَعَ قَوْمٍ يَذْكُرُونَ اللَّهَ مِنْ صَلَاةِ الْعَصْرِ إِلَى أَنْ تَغْرُبَ الشَّمْسُ : أَحَبُّ إِلَيَّ مَنْ أَنْ أَعْتِقَ أَرْبَعَةً</font>\n\n
+
+        “Aku duduk bersama orang-orang yang berdzikrullah Ta’ala
+        <b>mulai dari (waktu) sholat shubuh hingga terbit matahari</b>
+        lebih aku cintai daripada memerdekakan empat orang budak dari putra Nabi Isma’il.
+        Dan aku duduk bersama orang-orang yang berdzikrullah
+        <b>mulai dari (waktu) sholat Ashar sampai terbenam matahari</b>
+        lebih aku cintai daripada memerdekakan empat orang budak”\ (HR. Abu Dawud: 3667, dihasankan oleh Syaikh Al-Albani).
+
+    </string>
+    <string name="manfaat_dzikir_pagi_pertang">N/Y</string>
+
+    <!--ta'awudz-->
+    <string name="taawudz_arab">أَعُوذُ بِا للهِِ مِنَ الشَّيْطَانِ الرَّجِيمِ</string>
+    <string name="taawudz_latin">A`udzu billaahi minasy syaithoonir rojiim</string>
+    <string name="taawudz_arti">aku berlindung kepada Allah dari setan yang ter-rajam/terkutuk</string>
+
+    <!--ayat kursi-->
+    <string name="ayat_kursi_arab">
+        ‏ اَللّٰهُ لآ إِلٰـه إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ، لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ، لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي اْلأَ رْضِ، مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ، يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ،  وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَآءَ، وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَ اْلأَ رْضَ، وَلاَ يَئُودُهُ حِفْظُهُمَا، وَهُوَ الْعَلِيُّ الْعَظِيمُ
+    </string>
+
+
+
+    <string name="ayat_kursi_latin">
+        Allahu laa ilaaha illaa huwal hayyul qayyuum.
+        Laa ta’khudzuhuu sinatuw wa laa naum.
+        Lahuu maa fis samaawaati wa maa fil ardh.
+        Man dzal ladzii yasyfa`u `indahuu illaa bi idznih.
+        Ya`lamu maa bayna aidiihim wa maa khalfahum.
+        Wa laa yuhiithuuna bi syai-im min `ilmihii illaa bi maa syaa-a.
+        Wasi`a kursiyyuhus samaawaati wal ardha wa laa ya-uuduhuu hifzhuhumaa
+        Wahuwal `aliyyul `azhiim
+    </string>
+    <string name="ayat_kursi_arti"> \"Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia, Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya);
+        \nDia tidak mengantuk dan tidak tidur.
+        Kepunyaan-Nya apa yang di langit dan di bumi.
+        Tiada yang dapat memberi syafa`at di sisi Allah tanpa seizin-Nya.
+        Dia mengetahui apa-apa yang di hadapan mereka dan di belakang mereka.
+        Dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya.
+        Kursi Allah meliputi langit dan bumi.
+        Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar. "\"\
+    </string>
+    <string name="ayat_kursi_hadits"></string>
+
+    <!--sayyidul istighfar-->
+    <string name="sayyidul_istighfar_arab">
+        اَللَّهُمَّ أَنْتَ  رَبِّيْ ، لاَ إِلٰـهَ إِلاَّ أَنْتَ،
+        خَلَقْتَنِيْ وَأَنَا عَبْدُكَ ،  وَأَنَا عَلَى عَهْدِكَ
+        وَوَعْدِكَ مَا اسْتَطَعْتُ ،
+        أَعُوْذُ بِكَ  مِنْ شَرِّ مَا صَنَعْتُ ،
+        أَبُوْءُ لَكَ  بِنِعْمَتِكَ عَلَيَّ ،
+        وَأَبُوْءُ بِذَنْبِيْ ، فَاغْفِرْ لِي،
+        فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ  إِلَّا أَنْتَ
+
+    </string>
+
+    <string name="sayyidul_istighfar_latin">
+        Allahumma Anta Robbii, laa ilaaha illaa anta,
+        kholaqtani wa ana `abduka, wa ana `alaa `ahdika
+        wa wa`dika mas tatho`tu,
+        a`udzubika min syarri maa shona`tu,
+        abuu u laka bini`matika `alayya,
+        wa abuu u bidzambii, faghfirlii,
+        fa innahu laa yaghfirudz dzunuba illaaa anta
+    </string>
+    <string name="sayyidul_istighfar_arti">
+        Ya Allah Engkau adalah Rabbku,
+        tidak ada Ilah yang berhak disembah (diibadahi) dengan benar selain Engkau,
+        Engkau yang menciptakan aku dan aku adalah hamba-Mu,
+        Aku menetapi perjanjian untuk taat kepada-Mu dan janji balasan-Mu sesuai dengan kemampuanku.
+        Aku berlindung kepada-Mu dari keburukan perbuatanku.
+        Aku mengakui nikmat-Mu kepadaku, dan aku mengakui dosaku kepada-Mu, maka ampunilah aku.
+        Sebab tidak ada yang dapat mengampuni dosa selain Engkau.
+    </string>
+    <string name="sayyidul_istighfar_hadits_1">
+        (HR. Bukhari, no. 6306)
+    </string>
+    <string name="sayyidul_istighfar_hadits_2">
+        \“Barangsiapa mengucapkannya pada siang hari dan meyakininya, lalu dia mati pada hari itu sebelum waktu sore, maka dia termasuk penghuni surga. Dan barangsiapa mengucapkannya pada malam hari dalam keadaan meyakininya, lalu dia mati sebelum waktu pagi, maka dia termasuk penghuni surga.”\
+    </string>
+
+    <!--Tasbih Pagi-->
+    <string name="tasbih_pagi_arab">
+        سُبْحَانَ الله وَبِحَمْدِهِ ، عَدَدَ خَلْقِهِ ، وَرِضَا نَفْسِهِ ، وَزِنَةَ عَرْشِهِ ، وَمِدَادَ كَلِمَاتِهِ
+    </string>
+    <string name="tasbih_pagi_latin">Subhaanallahi wa bihamdihi, ‘adada khalqihi, wa ridhaa nafsihi, wa zinata ‘arsyihi, wa midaada kalimaatih</string>
+    <string name="tasbih_pagi_arti">Maha Suci Allah, dan Maha Terpuji-lah Dia, sejumlah makhluk ciptaan-Nya, setingkat ridha Diri-Nya, seberat ‘Arsy-Nya, dan sebanyak tinta Kalimat-kalimat-Nya</string>
+
+    <!--do'a rizki ilmu amal-->
+    <string name="doa_rizki_ilmu_amal_arab">
+        اللَّهُمَّ إِنِّى أَسْأَلُكَ عِلْمًا نَافِعًا ، وَرِزْقًا ، طَيِّبًا ، وَعَمَلاً مُتَقَبَّلاً
+    </string>
+    <string name="doa_rizki_ilmu_amal_latin">Allahumma inni as-aluka ‘ilman naafi’aa, wa rizqon thoyyibaa, wa ‘amalan mutaqobbalaa</string>
+    <string name="doa_rizki_ilmu_amal_arti">Ya Allah, aku memohon pada-Mu ilmu yang bermanfaat, rizki yang thoyyib dan amalan yang diterima</string>
+    <string name="doa_rizki_ilmu_amal_hadits_1">HR. Ibnu Majah no. 925, shahih</string>
+
+    <!--doa pagi1-->
+    <string name="doa_pagi_1_arab">
+        أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلٰـهَ إِلاَّ اللّٰهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِيْ هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا فِيْ هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَسُوْءِ الْكِبَرِ، رَبِّ أَعُوْذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ
+    </string>
+    <string name="doa_pagi_1_arti">Kami telah memasuki &lt;strong>waktu pagi&lt;/strong> dan seluruh kerajaan &lt;strong>pagi&lt;/strong> hanya milik Allah, segala puji bagi Allah. Tidak ada ilah (yang berhak disembah) kecuali Allah semata, tiada sekutu bagi-Nya. Milik Allah kerajaan dan bagi-Nya pujian.   ل ل ّٰه Dia-lah Yang Mahakuasa atas segala sesuatu. Wahai Rabbku, aku mohon kepada-Mu kebaikan di hari ini dan kebaikan sesudahnya. Aku berlindung kepada-Mu dari kejahatan hari ini dan kejahatan sesudahnya. Wahai Rabbku, aku berlindung kepada-Mu dari kemalasan dan kejelekan di hari tua. Wahai Rabbku, aku berlindung kepada-Mu dari siksaan di neraka dan siksaan di alam kubur</string>
+    <string name="doa_pagi_1_latin">&lt;strong>Ash-bahnaa&lt;/strong> wa &lt;strong>ash-bahal&lt;/strong> mulku lillah walhamdulillah, laa ilaha illallah wahdahu laa syarika lah, lahul mulku walahul hamdu wa huwa ‘ala kulli syai-in qodir. Robbi as-aluka khoiro maa fii hadzal yaum wa khoiro maa ba’dahu, wa a’udzu bika min syarri maa fii hadzal yaum wa syarri maa ba’dahu. Robbi a’udzu bika minal kasali wa su-il kibar. Robbi a’udzu bika min ‘adzabin fin naari wa ‘adzabin fil qobri</string>
+
+    <!--doa pagi2-->
+    <string name="doa_pagi_2_arab">
+        اَللّٰهُمَّ بِكَ اَصْبَحْنَا ، وَبِكَ اَمْسَيْنَا ، وَبِكَ نَحْيَا ، وَبِكَ نَمُوْتُ ، وَاِلَيْهِ النُّسُوْر
+    </string>
+    <string name="doa_pagi_2_arti">\“Ya Allah dengan rahmat dan pertolongan-Mu kami memasuki &lt;strong>waktu pagi&lt;/strong>, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu petang. Dengan rahmat dan pertolonganMu kami hidup, dan dengan kehendakMu kami mati. Dan kepada-Mu kebangkitan (bagi semua makhluk).”\ </string>
+    <string name="doa_pagi_2_latin">Allahumma bika &lt;strong>ashbahna&lt;/strong>, wa bika  amsayna, wa bika nahyaa, wa bika namuutu, wa ilayhin nusyuur</string>
+
+    <!--doa pagi3-->
+    <string name="doa_pagi_3_arab">
+        اَللَّهُمَّ إِنِّيْ أَصْبَحْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلآ ئِكَتَكَ وَجَمِيْعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللّٰهُُ لاَ إِلٰـهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيْكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ
+    </string>
+    <string name="doa_pagi_3_latin">
+        Allahumma inni &lt;strong>ash-bahtu&lt;/strong> usy-hiduka wa usy-hidu hamalata ‘arsyika wa malaa~ ikatak wa jami’a kholqik, annaka antallahu laa ilaha illa anta wahdaka laa syariika lak, wa anna Muhammadan ‘abduka wa rosuuluk.
+    </string>
+    <string name="doa_pagi_3_arti">
+        “Ya Allah, sesungguhnya aku &lt;strong>di waktu pagi ini&lt;/strong> mempersaksikan Engkau, malaikat yang memikul ‘Arys-Mu, malaikat-malaikat dan seluruh makhluk-Mu, bahwa sesungguhnya Engkau adalah Allah, tiada ilah yang berhak disembah kecuali Engkau semata, tiada sekutu bagi-Mu dan sesungguhnya Muhammad adalah hamba dan utusan-Mu.” &lt;strong>(di baca 4x)&lt;/strong>
+    </string>
+    <string name="doa_pagi_3_hadits"></string>
+
+    <!--doa petang1-->
+    <string name="doa_petang_1_arab">
+        أَمْسَيْنَا وَأَمْسَى الْمُلْكُ للهِ، وَالْحَمْدُ للهِ، لَا إِلٰـهَ إِلاَّ اللّٰهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُبِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُبِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُبِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ
+    </string>
+    <string name="doa_petang_1_arti">Kami telah memasuki &lt;strong>waktu petang&lt;/strong> dan semua kerajaan &lt;strong>petang&lt;/strong> hanya milik Allah, segala puji bagi Allah. Tidak ada ilah (yang berhak disembah) kecuali Allah semata, tiada sekutu bagi-Nya. Milik Allah kerajaan dan bagi-Nya pujian. Dia-lah Yang Mahakuasa atas segala sesuatu.Wahai Rabbku, aku mohon kepada-Mu kebaikan di malam ini dan kebaikan sesudahnya. Aku berlindung kepadaMu dari kejahatan malam ini dan kejahatan sesudahnya. Wahai Rabbku, aku berlindung kepadaMu dari kemalasan dan kejelekan di hari tua. Wahai Rabbku, aku berlindung kepada-Mu dari siksaan di neraka dan siksaan di kubur</string>
+    <string name="doa_petang_1_latin">&lt;strong>Amsaynaa&lt;/strong> wa &lt;strong>amsal&lt;/strong> mulku lillah walhamdulillah, laa ilaha illallah wahdahu laa syarika lah, lahul mulku walahul hamdu wa huwa ‘ala kulli syai-in qodir. Robbi as-aluka khoiro maa fii hadzihil lailah wa khoiro maa ba’dahaa, wa a’udzu bika min syarri maa fii hadzihil lailah wa syarri maa ba’dahaa. Robbi a’udzu bika minal kasali wa suu-il kibar. Robbi a’udzu bika min ‘adzabin fin naari wa ‘adzabin fil qobri</string>
+
+    <!--doa petang2-->
+    <string name="doa_petang_2_arab">
+        اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا،وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيْرُ
+    </string>
+    <string name="doa_petang_2_arti">\“Ya Allah dengan rahmat dan pertolongan-Mu kami memasuki &lt;strong>waktu petang&lt;/strong>, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi. Dengan rahmat dan pertolonganMu kami hidup, dan dengan kehendakMu kami mati, Dan kepada-Mu tempat kembali (bagi semua makhluk).” \</string>
+    <string name="doa_petang_2_latin">Allahumma bika &lt;strong>amsaynaa&lt;/strong>, wa bika ash-bahnaa, wa bika nahyaa, wa bika namuutu, wa ilaikal mashiir,</string>
+
+    <!--dia petang3-->
+    <string name="doa_petang_3_arab">
+        اَللَّهُمَّ إِنِّيْ أَمْسَيْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ، وَمَلآ ئِكَتَكَ وَجَمِيْعَ خَلْقِكَ، أَنَّكَ أَنْتَ اللّٰهُُ لاَ إِلٰـهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيْكَ لَكَ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُوْلُكَ
+    </string>
+    <string name="doa_petang_3_latin">
+        Allahumma inni &lt;strong>amsaytu&lt;/strong> usy-hiduka wa usy-hidu hamalata ‘arsyika wa malaa~ikatak wa jami’a kholqik, annaka antallahu laa ilaha illa anta wahdaka laa syariika lak, wa anna Muhammadan ‘abduka wa rosuuluk.
+    </string>
+    <string name="doa_petang_3_arti">
+        \“Ya Allah, sesungguhnya aku di &lt;strong>waktu petang&lt;/strong> ini mempersaksikan Engkau, malaikat yang memikul ‘Arys-Mu, malaikat-malaikat dan seluruh makhluk-Mu, bahwa sesungguhnya Engkau adalah Allah, tiada ilah yang berhak disembah kecuali Engkau semata, tiada sekutu bagi-Mu dan sesungguhnya Muhammad adalah hamba dan utusan-Mu.  ”\ &lt;strong>(Dibaca 4 x)&lt;/strong>
+    </string>
+    <string name="doa_petang_3_hadits"></string>
+
+    <!--doa kesehatan, selamat dari fakir, kufur, dan adzab kubur-->
+    <string name="doa_kesehatan_selamat_dr_fakir_kufur_adzab_kubur_arab">
+        اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لاَ إِلٰـهَ إِلاَّ أَنْتَ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لاَ إِلٰـهَ إِلاَّ أَنْتَ
+    </string>
+    <string name="doa_kesehatan_selamat_dr_fakir_kufur_adzab_kubur_latin">
+        Allahumma ‘aafinii fii badanii. Allahumma ‘aafinii fii sam’ii. Allahumma ‘aafinii fii basharii. Laa ilaaha illa anta. Allahumma innii a’uudzu bika minal kufri wal kufri. Allahumma innii a’uudzu bika min ‘adzaabil qubri. Laa ilaha illa anta.
+    </string>
+    <string name="doa_kesehatan_selamat_dr_fakir_kufur_adzab_kubur_arti">
+        “Ya Allah, selamatkanlah tubuhku (dari penyakit dan dari apa yang tidak aku inginkan). Ya Allah, selamatkanlah pendengaranku (dari penyakit dan maksiat atau dari apa yang tidak aku inginkan). Ya Allah, selamatkanlah penglihatanku, tidak ada Ilah (yang berhak diibadahi) kecuali Engkau. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kekufuran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tidak ada Ilah (yang berhak diibadahi) kecuali Engkau.”&lt;strong>(Dibaca 3 x)&lt;/strong>
+    </string>
+    <string name="doa_kesehatan_selamat_dr_fakir_kufur_adzab_kubur_hadits">
+        (HR. Abu Dawud no. 5090 dan dihasankan Syaikh Al-Albani)\n
+    </string>
+
+    <!--doa_pertolongan-->
+    <string name="doa_pertolongan_arab">
+        يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ، وَأَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ وَلاَ تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ أَبَدًا
+    </string>
+    <string name="doa_pertolongan_latin">Ya hayyu ya qoyyuumu bi rahmatika astaghiits, wa ash-lihlii sya’nii kullahu wa laa takilnii ilaa nafsii thorfata ‘ainin abadaa(n)</string>
+    <string name="doa_pertolongan_arti">Wahai Rabb Yang Maha Hidup, wahai Rabb Yang Berdiri Sendiri tidak butuh segala sesuatu, dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku dan jangan diserahkan kepadaku sekali pun sekejap mata tanpa mendapat pertolongan dari-Mu selamanya</string>
+
+    <!--doa perlindungan marabahaya-->
+    <string name="doa_perlindungan_bahaya_arab">
+        بِسْمِااللهِ الَّذِي لاَ  يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي اْلأَ رْضِ وَ لاَ فِي السَّمَآءِ، وَهُوَ السَّمِيعُ الْعَلِيم
+    </string>
+    <string name="doa_perlindungan_bahaya_latin">Bismillahil-ladzi laa yadhurru ma’asmihi syai-un fil-ardhi walaa fis-samaa-i, wa Huwas-Samii’ul ‘Aliim </string>
+    <string name="doa_perlindungan_bahaya_arti">Dengan Nama Allah, yang dengan Nama-Nya tidak akan ada sesuatupun di bumi dan di langit, yang bisa memberi madharat/bahaya. Dan Dia-lah Dzat Yang Maha Mendengar lagi Maha Mengetahui</string>
+
+    <!--doa perlindungan segala makhluk-->
+    <string name="doa_perlindungan_segala_makhluk_arab">آ
+        أَعُوْذُ بِكَلِمَاتِ اللهِ التَّآ مَّاتِ مِنْ شَرِّ مَا خَلَقَ
+    </string>
+    <string name="doa_perlindungan_segala_makhluk_latin">\A`udzu Bikalimaatillaahit Taa-mmaati min Syarri Maa Khalaq\</string>
+    <string name="doa_perlindungan_segala_makhluk_arti">Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan makhluk yang diciptakanNya</string>
+
+    <!--doa perlindungan harta diri keluarga-->
+    <string name="doa_perlindungan_harta_diri_keluarga_arab">
+        اللَّهُمَّ إنِّي أَسْأَلُكَ العَفْوَ وَالعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ ، اللَّهُمَّ إنِّي أَسْأَلُكَ العَفْوَ وَالعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي ، اللَّهُمَّ اسْتُرْ عَوْرَاتِي ، وَآمِنْ رَوْعَاتِي ، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنَ يَدَيَّ ، وَمِنْ خَلْفِي ، وَعَنْ يَمِينِي ، وَعَنْ شِمَالِي ، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي
+    </string>
+    <string name="doa_perlindungan_harta_diri_keluarga_latin">
+        Allahumma innii as-alukal `afwa wal `aafiyah,
+        fiddunyaa wal aakhirah,
+        Allahumma innii as-alukal `afwa wal `aafiyah,
+        fi diini, wa dunya yaa, wa ahlii, wa malii.
+        Allahuma-s tur `auraatii, wa min rau `aatii,
+        Allahuma-h fadznii min(m) bayni yadayya,
+        wa min khalfii, wa `an(y) yamiinii,
+        wa `an syimaalii, wa min fauqii,
+        wa a`udzu bi `azhomatika an ughtala mintahtii
+    </string>
+    <string name="doa_perlindungan_harta_diri_keluarga_arti">
+        Ya Allah! Sesungguhnya aku memohon ampunan dan terbebas dari masalah di dunia dan akhirat. Ya Allah, sesungguhnya aku memohon ampunan dan terbebas dari masalah dalam urusan agama, dunia, keluarga dan hartaku. Ya Allah, tutupilah auratku (aib dan sesuatu yang tidak layak dillihat orang) dan tenangkanlah aku dari rasa takut. Ya Allah! Jagalah aku dari arah muka, belakang, kanan, kiri dan dari atasku, dan aku berlindung dengan kebesaranMu, agar aku tidak dihancurkan dari bawahku (tenggelam dalam bumi, oleh ular, atau hal lain yang membuat jatuh)
+    </string>
+    <string name="doa_perlindungan_harta_diri_keluarga_hadits_1">
+        HR.Abu Daud no.5074 &amp; HR. Ibnu Majah no.3871. Al Hafizh Abu Thohir berkata sanad hadits ini shahih
+    </string>
+
+
+    <!--doa perlindungan nafsu dan syathan-->
+    <string name="doa_perlindungan_nafsu_dan_syathan_arab">
+        أَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ ، فَاطِرَ السَّمَاوَاتِ وَاْلأَرْضِ ، رَبَّ كُلِّ شَيْءٍ وَمَلِيْكَهُ ، أَشْهَدُ أَنْ لآ إِلٰـهَ إِلاَّ أَنْتَ ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ ، وَأَنْ أَقْـتَرِفَ عَلَى نَفْسِيْ سُوْءًا أَوْ أَجُرُّهُ إِلَى مُسْلِمٍ
+    </string>
+    <string name="doa_perlindungan_nafsu_dan_syathan_latin">
+        Allahumma ‘aalima l-ghoibi wa sy-syahaadah, faathiro s-samaawaati wal-ardh(i), robba kulli syai-iw wa maliikah, asy-hadu al laa ilaaha illa Anta, a-‘uudzu bika min syarri nafsii, wa min syarri sy-syaithooni wa syirkih(i), wa an-aqtarifa ‘alaa nafsii suu~an a1 ajurruhu ilaa muslim(in)
+    </string>
+    <string name="doa_perlindungan_nafsu_dan_syathan_arti">Ya Allah Yang Maha Mengetahui yang ghaib dan yang nyata, wahai Robb (Tuhan) Pencipta langit dan bumi, Robb (Tuhan) atas segala sesuatu dan Yang Merajainya. Aku bersaksi bahwa tidak ada iIah/Tuhan (yang berhak diibadahi/disembah dengan benar) kecuali Engkau. Aku berlindung kepada Mu dari kejahatan(keburukan) diriku, dari kejahatan (keburukan) syaitan dan sekutu¬nya, (aku berlindung kepada-Mu) dari berbuat kejelekan atas diriku atau mendorong seorang muslim kepadanya (kejahatan)</string>
+    <string name="doa_perlindungan_nafsu_dan_syathan_hadits_1"></string>
+    <string name="doa_perlindungan_nafsu_dan_syathan_hadits_2"></string>
+
+
+    <!--tasbih-->
+    <string name="tasbih_arab">
+        سُبْحَانَ الله وَبِحَمْدِهِ
+    </string>
+    <string name="tasbih_latin">Subhanallah Wa Bi Hamdih</string>
+    <string name="tasbih_arti">Mahasuci Allah dan dengan segala puji bagi-Nya </string>
+
+    <!--istighfar-->
+    <string name="istighfar_arab">
+        أَسْتَغْفِرُالله وَأَتُوْبُ إِلَيْهِ
+    </string>
+    <string name="istighfar_latin">Astaghfirullah, wa atuubu ilaih</string>
+    <string name="istighfar_arti">Aku memohon ampun kepada Allah dan bertobat kepada-Nya</string>
+
+    <!--al ikhlas-->
+    <string name="al_ikhlas_arab">
+        بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ.&lt;br/>
+        قُلْ هُوَ اللّٰهُ اَحَدٌ‌ ۚ
+        ‏ اَللّٰهُ الصَّمَدُ‌ ۚ
+        ‏ لَمْ يَلِدْ وَلَمْ يُولَدْ،
+        وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
+    </string>
+    <string name="al_ikhlas_latin">
+        Bismillahirrahmaanirrahiim.&lt;br/>
+        Qul huwallāhu aḥad,
+        allāhuṣ-ṣamad,
+        lam yalid wa lam yụlad,
+        wa lam yakul lahuu kufuwan aḥad
+    </string>
+    <string name="al_ikhlas_arti">
+        Dengan Menyebut Nama Allah Yang Maha Pemurah lagi Maha Penyayang.\nKatakanlah (Muhammad), “Dialah Allah, Yang Maha Esa.
+        Allah adalah ilah (Tuhan) tempat bergantung kepada-Nya segala sesuatu.
+        Dia tidak beranak dan tiada pula diperanakkan,
+        Dan tidak ada sesuatu yang setara dengan Dia
+    </string>
+
+    <!--al ikhlas-->
+    <string name="al_falaq_arab">
+        بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ.&lt;br/>
+        قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ
+        مِنْ شَرِّ مَا خَلَقَۙ
+        وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ
+        وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ
+        وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ
+
+    </string>
+    <string name="al_falaq_latin">
+        Bismillahirrahmaanirrahiim.&lt;br/>
+        Qul a`uudzu birabbil-falaq,
+        min syarri maa khalaq,
+        wa min syarri ghaasiqin idzaa waqab,
+        wa min syarrin-naffaatsaati fil-`uqad,
+        wa min syarri haasidin idzaa hasad,
+    </string>
+    <string name="al_falaq_arti">
+        Dengan Menyebut Nama Allah Yang Maha Pemurah lagi Maha Penyayang.\nKatakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),
+        dari kejahatan (makhluk yang) Dia ciptakan,
+        dan dari kejahatan malam apabila telah gelap gulita,
+        dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),
+        dan dari kejahatan orang yang dengki apabila dia dengki.”
+    </string>
+
+
+
+
+    <!--an nas-->
+    <string name="an_nas_arab">
+        بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ.&lt;br/>
+        قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ
+        مَلِكِ النَّاسِۙ
+        اِلٰهِ النَّاسِۙ
+        مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ
+        الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ
+        مِنَ الْجِنَّةِ وَالنَّاسِ
+
+    </string>
+    <string name="an_nas_latin">
+        Bismillahirrahmaanirrahiim.&lt;br/>
+        Qul a`uudzu birabbin-nās
+        malikin-nās,
+        ilāhin-nās,
+        min syarril-waswāsil-khannās,
+        alladzī yuwaswisu fī ṣudụrin-nās,
+        minal-jinnati wan-nās
+    </string>
+    <string name="an_nas_arti">
+        Dengan Menyebut Nama Allah Yang Maha Pemurah lagi Maha Penyayang.\nKatakanlah, “Aku berlindung kepada Tuhannya manusia,
+        Raja manusia,
+        sembahan manusia,
+        dari kejahatan (bisikan) setan yang bersembunyi,
+        yang membisikkan (kejahatan) ke dalam dada manusia,
+        dari (golongan) jin dan manusia.”
+    </string>
+    <string name="lorem">lorem</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

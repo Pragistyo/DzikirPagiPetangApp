@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          android:orientation="horizontal"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:clickable="true"
+          android:background="@drawable/custom_ripple"
+          android:divider="@color/design_default_color_secondary_variant"
+          android:weightSum="5"
+>
+    <!--android:background="@android:drawable/list_selector_background"-->
+    <!--android:foreground="?android:attr/selectableItemBackground"-->
+
+        <TextView
+                android:id="@+id/tv_item_doa_number"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="10."
+                android:textSize="20sp"
+                android:textColor="@color/colorAccent"
+                android:layout_marginLeft="0dp"
+                android:padding="2dp"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:layout_weight=".5"
+
+        />
+        <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:layout_weight="4.1"
+        >
+            <TextView
+                    android:id="@+id/tv_item_doa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="item_doa_pagi"
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    android:layout_marginLeft="3dp"
+                    android:padding="10dp"
+                    android:fontFamily="@font/karla"
+            />
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="13dp"
+                    android:background="@color/cardview_shadow_start_color"/>
+        </LinearLayout>
+
+    <CheckBox
+            android:id="@+id/checkbox_item_doa"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight=".33"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:buttonTint="@color/colorAccent"
+            android:layout_gravity="center|center_horizontal|center_vertical"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:id="@+id/detail_doa_root_layout"
+              android:theme="@style/Theme.MaterialComponents.NoActionBar">
+
+        <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar_detail_activity"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/design_default_color_on_primary"
+                app:navigationIcon="?attr/homeAsUpIndicator"
+                app:theme="@style/ToolbarColoredBackArrow"
+                app:titleTextColor="@color/colorPrimary"
+                app:titleTextAppearance="@style/AppTheme.Toolbar.Title"
+                app:titleMarginStart="100dp"
+        >
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="10"
+            >
+                <TextView
+                        android:id="@+id/tv_title_detail_doa"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="Do'a: "
+                        android:gravity="center"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="22sp"
+                        android:textStyle="bold"
+                        android:layout_weight="8"
+                        android:fontFamily="@font/karla"
+                />
+                <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_share_black_24dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="2"
+                />
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+
+    <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cv_material_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/cardview_light_background"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="15dp"
+            android:layout_marginBottom="10dp"
+
+    >
+
+        <LinearLayout
+                android:id="@+id/Linear_detail_title_doa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="10dp"
+                android:paddingBottom="15dp"
+        >
+
+            <TextView
+                    android:id="@+id/tv_detail_doa_item_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Detail Title Doa"
+                    android:layout_gravity="center"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/cardview_dark_background"
+                    android:fontFamily="@font/karla"
+            />
+
+            <androidx.core.widget.NestedScrollView
+                    android:id="@+id/scroll_detail_doa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+            >
+                <com.alexvasilkov.gestures.views.GestureFrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                    <LinearLayout
+                            android:id="@+id/lin_inside_card_detail_doa"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:padding="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                    >
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_ARAB"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginEnd="10dp"
+                                android:text="Bahasa Arab nya "
+                                android:justificationMode="inter_word"
+                                android:textSize="30sp"
+                                android:textColor="#000000"
+                                android:lineSpacingExtra="8dp"
+                                android:fontFamily="@font/traditional_arabic"
+                        />
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_LATIN_title"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="15dp"
+                                android:text="Latin :"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimaryDark"
+                                android:fontFamily="@font/karla"
+                        />
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_LATIN"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:text="Di baca latinnya "
+                                android:textSize="18sp"
+                                android:textColor="#000000"
+                                android:textStyle="italic"
+                                android:fontFamily="@font/karla"
+                                android:lineSpacingExtra="5dp"
+                        />
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_ARTI_title"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="20dp"
+                                android:text="Arti :"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimaryDark"
+                                android:fontFamily="@font/karla"
+                        />
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_ARTI"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:text="arti doanya "
+                                android:textSize="18sp"
+                                android:textColor="#000000"
+                                android:fontFamily="@font/karla"
+                                android:lineSpacingExtra="5dp"
+                        />
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_HADITS_title"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="15dp"
+                                android:text="Hadits :"
+                                android:textSize="20sp"
+                                android:textStyle="bold"
+                                android:textColor="@color/colorPrimaryDark"
+                                android:fontFamily="@font/karla"
+
+                        />
+
+                        <TextView
+                                android:id="@+id/tv_detail_doa_item_HADITS"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:text=""
+                                android:textSize="18sp"
+                                android:textColor="#000000"
+                                android:justificationMode="inter_word"
+                                android:fontFamily="@font/karla"
+                                android:lineSpacingExtra="5dp"
+                        />
+
+                    </LinearLayout>
+
+                </com.alexvasilkov.gestures.views.GestureFrameLayout>
+
+            </androidx.core.widget.NestedScrollView>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
